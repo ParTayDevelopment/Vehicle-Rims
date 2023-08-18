@@ -10,7 +10,6 @@ This is a Drag and Drop Fivem ready asset.
 
 4. Restart Server and Enjoy.
  
-Complied Rim resource that is Fivem Ready
 
 # Note Rims will be in the back of the rim section. You will find Most of them in the High End area within your mechanic Menu.
 
